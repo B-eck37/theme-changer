@@ -52,7 +52,7 @@ updateEditStatus(val){
           <TextContainer 
           fontColor={this.state.fontColor} 
           fontSize={this.state.fontSize} 
-          fontFamily={this.state.FontFamily} />
+          fontFamily={this.state.fontFamily} />
         </div>
       </div>
     )
